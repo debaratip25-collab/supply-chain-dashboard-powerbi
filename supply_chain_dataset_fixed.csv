@@ -1,0 +1,121 @@
+Date,Month,Quarter,Year,Product ID,Product Name,Product Category,Supplier Name,Warehouse Location,Region,Opening Stock,Incoming Stock,Units Sold,Closing Stock,Reorder Level,Reorder Status,Lead Time (Days),Order Quantity,Delivery Status,Delivery Time (Days),Inventory Holding Cost,Stockout Status,Demand Forecast,Actual Demand,Forecast Accuracy %,Inventory Turnover Ratio
+2024-01-01,1,1,2024,P104,Product P104,Home,Supplier C,Bangalore,East,388,120,252,256,271,Yes,5,199,On Time,5,304.35,No,266,252,0.94,0.78
+2024-01-02,1,1,2024,P103,Product P103,Home,Supplier B,Kolkata,East,493,229,341,381,170,No,3,188,On Time,3,490.4,No,385,341,0.87,0.78
+2024-01-03,1,1,2024,P101,Product P101,Clothing,Supplier C,Bangalore,West,387,114,339,162,200,Yes,6,150,On Time,6,224.96,No,280,339,0.83,1.23
+2024-01-04,1,1,2024,P105,Product P105,Electronics,Supplier C,Mumbai,East,288,159,163,284,158,No,4,287,On Time,4,433.48,No,260,163,0.4,0.57
+2024-01-05,1,1,2024,P104,Product P104,Home,Supplier D,Bangalore,South,405,180,313,272,199,No,6,103,On Time,6,348.19,No,255,313,0.81,0.92
+2024-01-06,1,1,2024,P105,Product P105,FMCG,Supplier B,Kolkata,West,401,289,377,313,163,No,9,289,Delayed,11,248.51,No,398,377,0.94,1.06
+2024-01-07,1,1,2024,P105,Product P105,Home,Supplier B,Bangalore,North,479,253,366,366,273,No,7,188,On Time,7,623.41,No,214,366,0.58,0.87
+2024-01-08,1,1,2024,P101,Product P101,Electronics,Supplier D,Kolkata,East,262,238,392,108,230,Yes,5,140,Delayed,8,66.0,No,380,392,0.97,2.12
+2024-01-09,1,1,2024,P104,Product P104,Electronics,Supplier D,Kolkata,West,232,147,396,-17,211,Yes,7,200,Delayed,9,-31.12,Yes,342,396,0.86,3.68
+2024-01-10,1,1,2024,P103,Product P103,Electronics,Supplier A,Mumbai,South,454,241,252,443,176,No,3,278,Delayed,5,238.39,No,354,252,0.6,0.56
+2024-01-11,1,1,2024,P101,Product P101,Pharma,Supplier A,Kolkata,East,421,250,380,291,292,Yes,5,286,On Time,5,557.06,No,220,380,0.58,1.07
+2024-01-12,1,1,2024,P103,Product P103,Pharma,Supplier B,Mumbai,North,261,284,394,151,283,Yes,6,191,Delayed,8,275.56,No,277,394,0.7,1.91
+2024-01-13,1,1,2024,P101,Product P101,Electronics,Supplier A,Delhi,South,320,215,354,181,152,No,9,264,On Time,9,235.51,No,211,354,0.6,1.41
+2024-01-14,1,1,2024,P101,Product P101,Clothing,Supplier B,Kolkata,East,514,217,309,422,245,No,3,151,On Time,3,252.08,No,335,309,0.92,0.66
+2024-01-15,1,1,2024,P104,Product P104,FMCG,Supplier C,Delhi,North,312,283,230,365,262,No,4,228,On Time,4,210.68,No,378,230,0.36,0.68
+2024-01-16,1,1,2024,P103,Product P103,FMCG,Supplier A,Kolkata,West,359,297,309,347,217,No,9,123,Delayed,12,299.54,No,187,309,0.61,0.88
+2024-01-17,1,1,2024,P105,Product P105,Pharma,Supplier B,Mumbai,West,594,243,246,591,273,No,5,286,On Time,5,331.65,No,297,246,0.79,0.42
+2024-01-18,1,1,2024,P104,Product P104,Clothing,Supplier B,Bangalore,South,346,247,245,348,201,No,3,203,On Time,3,375.88,No,231,245,0.94,0.71
+2024-01-19,1,1,2024,P101,Product P101,Clothing,Supplier D,Delhi,North,350,258,371,237,191,No,5,159,On Time,5,180.7,No,261,371,0.7,1.26
+2024-01-20,1,1,2024,P101,Product P101,FMCG,Supplier A,Kolkata,West,339,296,186,449,158,No,3,247,On Time,3,713.43,No,280,186,0.49,0.47
+2024-01-21,1,1,2024,P101,Product P101,Pharma,Supplier C,Delhi,East,303,183,376,110,261,Yes,8,209,Delayed,9,55.84,No,277,376,0.74,1.82
+2024-01-22,1,1,2024,P102,Product P102,FMCG,Supplier B,Bangalore,East,368,260,217,411,182,No,8,235,On Time,8,665.71,No,277,217,0.72,0.56
+2024-01-23,1,1,2024,P103,Product P103,Electronics,Supplier D,Delhi,East,570,218,171,617,187,No,8,126,On Time,8,1134.09,No,176,171,0.97,0.29
+2024-01-24,1,1,2024,P102,Product P102,Home,Supplier B,Delhi,East,566,291,374,483,210,No,5,271,On Time,5,798.32,No,166,374,0.44,0.71
+2024-01-25,1,1,2024,P104,Product P104,Home,Supplier B,Delhi,West,298,223,382,139,186,Yes,7,287,On Time,7,271.05,No,248,382,0.65,1.75
+2024-01-26,1,1,2024,P101,Product P101,Pharma,Supplier C,Delhi,North,360,166,277,249,167,No,3,203,On Time,3,439.81,No,216,277,0.78,0.91
+2024-01-27,1,1,2024,P102,Product P102,FMCG,Supplier C,Bangalore,West,585,116,253,448,286,No,5,125,Delayed,8,421.29,No,396,253,0.43,0.49
+2024-01-28,1,1,2024,P103,Product P103,FMCG,Supplier A,Kolkata,North,515,234,206,543,185,No,7,243,On Time,7,329.28,No,387,206,0.12,0.39
+2024-01-29,1,1,2024,P104,Product P104,Clothing,Supplier C,Bangalore,East,553,165,181,537,235,No,5,249,On Time,5,705.6,No,274,181,0.49,0.33
+2024-01-30,1,1,2024,P102,Product P102,FMCG,Supplier B,Delhi,East,369,169,164,374,203,No,5,159,On Time,5,479.98,No,202,164,0.77,0.44
+2024-01-31,1,1,2024,P104,Product P104,Pharma,Supplier A,Bangalore,East,461,208,373,296,265,No,8,243,On Time,8,431.02,No,201,373,0.54,0.99
+2024-02-01,2,1,2024,P105,Product P105,FMCG,Supplier D,Mumbai,West,346,244,269,321,212,No,5,216,On Time,5,198.28,No,378,269,0.59,0.81
+2024-02-02,2,1,2024,P101,Product P101,Pharma,Supplier A,Delhi,West,321,100,388,33,183,Yes,8,216,On Time,8,25.55,Yes,386,388,0.99,2.19
+2024-02-03,2,1,2024,P101,Product P101,Home,Supplier C,Kolkata,South,268,121,242,147,225,Yes,4,128,On Time,4,240.61,No,334,242,0.62,1.17
+2024-02-04,2,1,2024,P104,Product P104,Home,Supplier C,Delhi,West,437,289,393,333,293,No,4,200,Delayed,5,403.0,No,182,393,0.46,1.02
+2024-02-05,2,1,2024,P102,Product P102,FMCG,Supplier B,Delhi,East,489,279,372,396,287,No,4,103,Delayed,5,518.39,No,386,372,0.96,0.84
+2024-02-06,2,1,2024,P102,Product P102,Electronics,Supplier D,Kolkata,East,539,251,289,501,273,No,3,111,On Time,3,660.53,No,250,289,0.87,0.56
+2024-02-07,2,1,2024,P103,Product P103,Electronics,Supplier A,Kolkata,West,242,143,178,207,290,Yes,6,134,On Time,6,109.16,No,392,178,-0.2,0.79
+2024-02-08,2,1,2024,P101,Product P101,FMCG,Supplier D,Delhi,West,289,261,264,286,254,No,9,174,On Time,9,441.9,No,386,264,0.54,0.92
+2024-02-09,2,1,2024,P105,Product P105,Pharma,Supplier A,Delhi,North,448,263,287,424,250,No,3,135,On Time,3,578.29,No,248,287,0.86,0.66
+2024-02-10,2,1,2024,P102,Product P102,Electronics,Supplier C,Kolkata,East,350,289,373,266,186,No,6,198,On Time,6,432.6,No,366,373,0.98,1.21
+2024-02-11,2,1,2024,P101,Product P101,Electronics,Supplier A,Mumbai,East,567,185,290,462,168,No,3,175,On Time,3,895.27,No,296,290,0.98,0.56
+2024-02-12,2,1,2024,P101,Product P101,Pharma,Supplier B,Bangalore,East,251,182,399,34,260,Yes,7,222,On Time,7,47.72,Yes,329,399,0.82,2.8
+2024-02-13,2,1,2024,P105,Product P105,Pharma,Supplier A,Bangalore,East,256,138,258,136,191,Yes,4,262,On Time,4,180.1,No,282,258,0.91,1.32
+2024-02-14,2,1,2024,P105,Product P105,Clothing,Supplier C,Mumbai,South,275,108,223,160,294,Yes,7,236,Delayed,9,248.23,No,319,223,0.57,1.03
+2024-02-15,2,1,2024,P102,Product P102,Clothing,Supplier B,Mumbai,North,228,264,315,177,232,Yes,7,144,On Time,7,304.3,No,220,315,0.7,1.56
+2024-02-16,2,1,2024,P104,Product P104,Pharma,Supplier B,Kolkata,South,474,288,257,505,240,No,4,240,Delayed,7,581.6,No,322,257,0.75,0.53
+2024-02-17,2,1,2024,P102,Product P102,Pharma,Supplier B,Mumbai,East,516,226,254,488,150,No,5,212,On Time,5,948.31,No,340,254,0.66,0.51
+2024-02-18,2,1,2024,P101,Product P101,Electronics,Supplier B,Delhi,West,257,143,322,78,210,Yes,9,263,Delayed,11,147.18,Yes,378,322,0.83,1.92
+2024-02-19,2,1,2024,P103,Product P103,Clothing,Supplier D,Delhi,West,246,148,163,231,292,Yes,9,284,Delayed,11,317.96,No,293,163,0.2,0.68
+2024-02-20,2,1,2024,P103,Product P103,Pharma,Supplier B,Kolkata,East,557,251,305,503,266,No,4,159,On Time,4,601.36,No,335,305,0.9,0.58
+2024-02-21,2,1,2024,P102,Product P102,Pharma,Supplier D,Delhi,North,427,291,304,414,294,No,3,256,On Time,3,712.37,No,369,304,0.79,0.72
+2024-02-22,2,1,2024,P105,Product P105,Clothing,Supplier A,Mumbai,West,570,296,196,670,159,No,8,132,Delayed,9,500.66,No,397,196,-0.03,0.32
+2024-02-23,2,1,2024,P101,Product P101,FMCG,Supplier D,Bangalore,North,466,184,175,475,212,No,3,197,Delayed,6,642.97,No,310,175,0.23,0.37
+2024-02-24,2,1,2024,P101,Product P101,Clothing,Supplier C,Delhi,North,510,105,369,246,244,No,7,264,Delayed,8,338.92,No,202,369,0.55,0.98
+2024-02-25,2,1,2024,P102,Product P102,FMCG,Supplier C,Delhi,North,277,209,150,336,200,No,7,131,On Time,7,283.24,No,262,150,0.25,0.49
+2024-02-26,2,1,2024,P102,Product P102,Pharma,Supplier C,Kolkata,South,353,261,331,283,267,No,5,232,On Time,5,503.25,No,203,331,0.61,1.04
+2024-02-27,2,1,2024,P103,Product P103,Electronics,Supplier A,Kolkata,South,502,250,356,396,234,No,8,137,Delayed,11,734.47,No,341,356,0.96,0.79
+2024-02-28,2,1,2024,P102,Product P102,FMCG,Supplier B,Mumbai,South,546,278,340,484,201,No,3,205,On Time,3,810.93,No,179,340,0.53,0.66
+2024-02-29,2,1,2024,P103,Product P103,Electronics,Supplier A,Delhi,East,337,283,294,326,223,No,3,105,On Time,3,387.52,No,183,294,0.62,0.89
+2024-03-01,3,1,2024,P105,Product P105,FMCG,Supplier A,Mumbai,South,242,214,260,196,229,Yes,9,203,On Time,9,303.11,No,281,260,0.92,1.19
+2024-03-02,3,1,2024,P104,Product P104,Electronics,Supplier C,Kolkata,South,354,192,309,237,210,No,4,191,On Time,4,410.65,No,359,309,0.84,1.05
+2024-03-03,3,1,2024,P102,Product P102,Home,Supplier B,Delhi,West,200,232,382,50,161,Yes,4,254,Delayed,5,62.76,Yes,194,382,0.51,3.06
+2024-03-04,3,1,2024,P101,Product P101,FMCG,Supplier A,Bangalore,North,413,155,243,325,256,No,9,100,On Time,9,163.77,No,185,243,0.76,0.66
+2024-03-05,3,1,2024,P101,Product P101,Clothing,Supplier A,Kolkata,South,502,226,205,523,163,No,4,253,Delayed,6,624.36,No,258,205,0.74,0.4
+2024-03-06,3,1,2024,P103,Product P103,Clothing,Supplier C,Bangalore,South,437,206,388,255,167,No,4,218,On Time,4,279.42,No,341,388,0.88,1.12
+2024-03-07,3,1,2024,P105,Product P105,Pharma,Supplier B,Bangalore,North,472,185,367,290,275,No,6,167,On Time,6,294.17,No,174,367,0.47,0.96
+2024-03-08,3,1,2024,P102,Product P102,Clothing,Supplier A,Delhi,West,310,210,363,157,183,Yes,9,268,Delayed,10,211.43,No,191,363,0.53,1.55
+2024-03-09,3,1,2024,P105,Product P105,Pharma,Supplier B,Kolkata,West,514,208,347,375,270,No,3,211,On Time,3,314.25,No,219,347,0.63,0.78
+2024-03-10,3,1,2024,P104,Product P104,Clothing,Supplier B,Mumbai,West,294,251,204,341,286,No,9,135,On Time,9,179.83,No,378,204,0.15,0.64
+2024-03-11,3,1,2024,P102,Product P102,Pharma,Supplier D,Bangalore,East,534,233,267,500,262,No,8,293,On Time,8,751.48,No,334,267,0.75,0.52
+2024-03-12,3,1,2024,P103,Product P103,FMCG,Supplier C,Delhi,East,332,169,303,198,267,Yes,6,239,On Time,6,249.76,No,262,303,0.86,1.14
+2024-03-13,3,1,2024,P101,Product P101,FMCG,Supplier B,Kolkata,West,492,225,288,429,249,No,7,109,On Time,7,247.85,No,327,288,0.86,0.63
+2024-03-14,3,1,2024,P105,Product P105,FMCG,Supplier D,Mumbai,North,367,229,233,363,214,No,9,242,On Time,9,595.44,No,352,233,0.49,0.64
+2024-03-15,3,1,2024,P103,Product P103,Electronics,Supplier A,Mumbai,East,435,277,227,485,266,No,5,163,Delayed,8,290.88,No,189,227,0.83,0.49
+2024-03-16,3,1,2024,P104,Product P104,Home,Supplier D,Bangalore,North,428,113,209,332,179,No,5,177,On Time,5,571.66,No,272,209,0.7,0.55
+2024-03-17,3,1,2024,P102,Product P102,Pharma,Supplier A,Delhi,West,288,245,189,344,221,No,9,122,Delayed,12,494.04,No,246,189,0.7,0.6
+2024-03-18,3,1,2024,P101,Product P101,Electronics,Supplier A,Delhi,South,508,203,253,458,188,No,5,299,On Time,5,457.64,No,328,253,0.7,0.52
+2024-03-19,3,1,2024,P102,Product P102,Pharma,Supplier C,Bangalore,North,488,254,313,429,187,No,3,132,On Time,3,374.4,No,332,313,0.94,0.68
+2024-03-20,3,1,2024,P104,Product P104,FMCG,Supplier B,Delhi,South,529,196,267,458,187,No,7,279,On Time,7,810.51,No,365,267,0.63,0.54
+2024-03-21,3,1,2024,P105,Product P105,Home,Supplier A,Bangalore,East,531,272,279,524,244,No,5,126,On Time,5,688.58,No,192,279,0.69,0.53
+2024-03-22,3,1,2024,P105,Product P105,Pharma,Supplier C,Mumbai,West,559,137,283,413,172,No,9,240,On Time,9,587.46,No,367,283,0.7,0.58
+2024-03-23,3,1,2024,P102,Product P102,Electronics,Supplier A,Bangalore,East,515,270,353,432,249,No,6,191,Delayed,7,674.29,No,255,353,0.72,0.75
+2024-03-24,3,1,2024,P102,Product P102,Electronics,Supplier B,Bangalore,North,495,140,363,272,160,No,9,209,On Time,9,232.25,No,239,363,0.66,0.95
+2024-03-25,3,1,2024,P104,Product P104,Electronics,Supplier A,Bangalore,West,254,214,317,151,292,Yes,7,279,On Time,7,244.07,No,351,317,0.89,1.57
+2024-03-26,3,1,2024,P101,Product P101,Home,Supplier B,Delhi,South,262,124,239,147,224,Yes,8,190,On Time,8,150.0,No,311,239,0.7,1.17
+2024-03-27,3,1,2024,P101,Product P101,Clothing,Supplier C,Kolkata,South,378,281,301,358,174,No,9,276,On Time,9,197.19,No,310,301,0.97,0.82
+2024-03-28,3,1,2024,P105,Product P105,Clothing,Supplier B,Mumbai,East,569,148,348,369,230,No,6,162,On Time,6,492.97,No,235,348,0.68,0.74
+2024-03-29,3,1,2024,P105,Product P105,Electronics,Supplier C,Delhi,East,340,278,272,346,211,No,8,243,On Time,8,191.97,No,179,272,0.66,0.79
+2024-03-30,3,1,2024,P103,Product P103,FMCG,Supplier A,Mumbai,South,374,293,395,272,262,No,4,228,On Time,4,448.27,No,281,395,0.71,1.22
+2024-03-31,3,1,2024,P105,Product P105,Clothing,Supplier D,Mumbai,West,565,261,273,553,236,No,9,107,On Time,9,870.4,No,242,273,0.89,0.49
+2024-04-01,4,2,2024,P101,Product P101,Electronics,Supplier C,Bangalore,East,454,171,203,422,216,No,5,134,On Time,5,361.77,No,311,203,0.47,0.46
+2024-04-02,4,2,2024,P103,Product P103,Pharma,Supplier D,Delhi,West,597,154,325,426,156,No,4,211,On Time,4,345.84,No,296,325,0.91,0.64
+2024-04-03,4,2,2024,P105,Product P105,Clothing,Supplier D,Delhi,East,281,101,278,104,196,Yes,7,294,On Time,7,92.47,No,279,278,1.0,1.44
+2024-04-04,4,2,2024,P104,Product P104,Pharma,Supplier A,Delhi,West,455,236,375,316,202,No,6,123,On Time,6,619.94,No,257,375,0.69,0.97
+2024-04-05,4,2,2024,P101,Product P101,FMCG,Supplier B,Kolkata,South,414,227,373,268,263,No,5,124,On Time,5,432.16,No,343,373,0.92,1.09
+2024-04-06,4,2,2024,P101,Product P101,Clothing,Supplier B,Kolkata,West,228,208,247,189,186,No,5,265,Delayed,6,325.57,No,190,247,0.77,1.18
+2024-04-07,4,2,2024,P102,Product P102,Electronics,Supplier A,Delhi,West,577,175,236,516,266,No,4,233,On Time,4,462.09,No,180,236,0.76,0.43
+2024-04-08,4,2,2024,P103,Product P103,FMCG,Supplier D,Delhi,North,508,298,287,519,294,No,4,163,On Time,4,859.65,No,195,287,0.68,0.56
+2024-04-09,4,2,2024,P102,Product P102,Pharma,Supplier B,Bangalore,North,506,280,185,601,264,No,4,263,On Time,4,1055.13,No,160,185,0.86,0.33
+2024-04-10,4,2,2024,P101,Product P101,Clothing,Supplier C,Kolkata,South,509,197,204,502,260,No,8,135,On Time,8,615.27,No,399,204,0.04,0.4
+2024-04-11,4,2,2024,P104,Product P104,Clothing,Supplier C,Kolkata,South,536,289,258,567,222,No,3,270,On Time,3,634.58,No,210,258,0.81,0.47
+2024-04-12,4,2,2024,P102,Product P102,Electronics,Supplier C,Bangalore,South,428,207,321,314,251,No,4,148,On Time,4,305.17,No,336,321,0.95,0.87
+2024-04-13,4,2,2024,P105,Product P105,Electronics,Supplier B,Delhi,South,502,111,211,402,229,No,5,217,Delayed,6,658.7,No,378,211,0.21,0.47
+2024-04-14,4,2,2024,P101,Product P101,FMCG,Supplier A,Kolkata,South,258,253,382,129,258,Yes,4,244,On Time,4,201.03,No,348,382,0.91,1.97
+2024-04-15,4,2,2024,P102,Product P102,Home,Supplier B,Mumbai,South,469,178,266,381,156,No,3,181,On Time,3,256.38,No,208,266,0.78,0.63
+2024-04-16,4,2,2024,P104,Product P104,Clothing,Supplier B,Bangalore,West,302,116,163,255,257,Yes,6,267,On Time,6,466.01,No,320,163,0.04,0.59
+2024-04-17,4,2,2024,P102,Product P102,Pharma,Supplier C,Bangalore,East,203,192,363,32,290,Yes,4,225,On Time,4,36.49,Yes,257,363,0.71,3.09
+2024-04-18,4,2,2024,P102,Product P102,Clothing,Supplier B,Mumbai,West,450,112,290,272,167,No,5,289,On Time,5,139.87,No,178,290,0.61,0.8
+2024-04-19,4,2,2024,P101,Product P101,Home,Supplier B,Delhi,East,384,115,333,166,270,Yes,4,232,On Time,4,166.76,No,233,333,0.7,1.21
+2024-04-20,4,2,2024,P101,Product P101,Electronics,Supplier C,Delhi,West,575,257,391,441,217,No,4,280,On Time,4,248.34,No,342,391,0.87,0.77
+2024-04-21,4,2,2024,P101,Product P101,Electronics,Supplier A,Kolkata,East,339,286,399,226,186,No,7,283,On Time,7,312.52,No,188,399,0.47,1.41
+2024-04-22,4,2,2024,P103,Product P103,Home,Supplier B,Delhi,South,251,103,208,146,221,Yes,6,209,Delayed,8,206.09,No,386,208,0.14,1.05
+2024-04-23,4,2,2024,P102,Product P102,Clothing,Supplier B,Delhi,West,440,102,269,273,155,No,7,108,On Time,7,533.35,No,326,269,0.79,0.75
+2024-04-24,4,2,2024,P103,Product P103,Pharma,Supplier B,Delhi,North,578,262,327,513,231,No,8,112,Delayed,11,884.28,No,379,327,0.84,0.6
+2024-04-25,4,2,2024,P105,Product P105,Electronics,Supplier A,Kolkata,West,556,197,160,593,254,No,5,252,On Time,5,720.5,No,344,160,-0.15,0.28
+2024-04-26,4,2,2024,P102,Product P102,Pharma,Supplier B,Delhi,South,239,124,154,209,288,Yes,5,171,On Time,5,183.71,No,187,154,0.79,0.69
+2024-04-27,4,2,2024,P103,Product P103,Home,Supplier D,Mumbai,West,236,159,325,70,177,Yes,7,161,Delayed,9,86.99,Yes,373,325,0.85,2.12
+2024-04-28,4,2,2024,P105,Product P105,Clothing,Supplier B,Bangalore,East,239,197,189,247,240,No,7,179,On Time,7,449.03,No,296,189,0.43,0.78
+2024-04-29,4,2,2024,P104,Product P104,Electronics,Supplier C,Bangalore,East,368,112,256,224,194,No,3,106,Delayed,6,346.86,No,337,256,0.68,0.86
