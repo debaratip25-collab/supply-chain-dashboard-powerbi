@@ -1,4 +1,5 @@
 **Supply Chain Efficiency & Inventory Optimization Dashboard**
+
 This dashboard helps businesses reduce stockouts, optimize inventory, and improve supplier performance using data-driven insights.
 
 **Project Overview**
@@ -63,10 +64,6 @@ The dataset includes:
 * Recommended improvements in reorder policies
 
 
-Conclusion
-
-This dashboard enables businesses to monitor supply chain performance, reduce stockouts, optimize inventory costs, and improve operational efficiency through data-driven insights.
-
 
 **Dashboard Preview**
 
@@ -76,6 +73,7 @@ This dashboard enables businesses to monitor supply chain performance, reduce st
 
 
 **What makes this project unique**
+
 • Includes EOQ, Safety Stock, and Reorder Point calculations  
 • Implements inventory optimization logic  
 • Combines demand, inventory, and supplier analytics in one dashboard  
